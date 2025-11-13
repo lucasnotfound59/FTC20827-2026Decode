@@ -1,6 +1,6 @@
 package org.firstinspires.ftc.teamcode.external.PedroPathing.ftc.localization.constants;
 
-import com.pedropathing.ftc.localization.Encoder;
+//import com.pedropathing.ftc.localization.Encoder;
 
 public class DriveEncoderConstants {
 
